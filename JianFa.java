@@ -12,7 +12,8 @@ public class JianFa {
 		System.out.println("test github confict yuebuqun");
 	}
 	
-	public void say() {
+	public String say() {
 		System.out.println("hello east success");
+		return "success";
 	}
 }

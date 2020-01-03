@@ -7,5 +7,6 @@ public class JianFa {
 		System.out.println("this is hotfix branch");
 		System.out.println("this is master confict");
 		System.out.println("this is test confict hotfix");
+		System.out.println("linghuchong update this file");
 	}
 }

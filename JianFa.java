@@ -8,5 +8,6 @@ public class JianFa {
 		System.out.println("this is master confict");
 		System.out.println("this is test confict hotfix");
 		System.out.println("linghuchong update this file");
+		System.out.println("test github confict yuebuqun");
 	}
 }

@@ -4,5 +4,6 @@ public class JianFa {
 		System.out.println("this is second");
 		System.out.println("this is third");
 		System.out.println("this is forth");
+		System.out.println("this is hotfix branch");
 	}
 }
